@@ -1,4 +1,4 @@
-#!d:\data analysis macet\day 12\env\scripts\python.exe
+#!d:\data analysis macet\day 12\supermarket-app\env\scripts\python.exe
 # -*- coding: utf-8 -*-
 # Copyright 2025 Google LLC
 #
